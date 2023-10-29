@@ -1,1 +1,1 @@
-# aiserchdemo
+there are 2 files for the demo the first stindex3.py is the main program that communicates with open ai to obtain search results against a vector databas that is created by the second program vec.py. This is an implimentation of the llama-index repo with a streamlit web ui front end.
